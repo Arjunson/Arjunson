@@ -7,22 +7,22 @@
 </p>
 
 
-<h2 align="center">A passionate Data Analyst enthusiast from India.</h2>
+<h2 align="center">A passionate Web Developer from India.</h2>
 
 
 
 ### About me 🤓
 Hey!!! 
-Hello everyone, I am Arjun Sonani. Currently I have done my Undergraduation in Electronics and Telecommunication Engineering. I really love to find answers which I can discover from data. 
+Hello everyone, I am Arjun Sonani. Currently I have done my Undergraduation in Electronics and Telecommunication Engineering. I really love to find answers which I can discover from data and like to build websites. 
 
-I am keen enthusiast of Deep Analysis. I also love other stuffs like playing bansuri(Indian Bamboo Flute), Finance, etc.
+I am keen to learn new and latest technologies. I also love other stuffs like playing bansuri(Indian Bamboo Flute), Finance, etc.
 
 
 
   
-- 🔭 I’m currently working on Power BI Projects
+- 🔭 I’m currently working on React Projects
 
-- 🌱 I’m soon going to learn **Web Scraping**
+- 🌱 I’m soon going to learn Web3
 
 - 👯 I love learning things.
 
@@ -30,7 +30,7 @@ I am keen enthusiast of Deep Analysis. I also love other stuffs like playing ban
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Arjunson)
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics and Web Development**
 
 - 📫 How to reach me **arjunson2000@gmail.com**
 
@@ -40,7 +40,7 @@ I am keen enthusiast of Deep Analysis. I also love other stuffs like playing ban
 ---
 # Languages and Tools 🛠
 <table align="center">
-  <tr>
+<!--   <tr>
     <td align="center" width="96">
      <a href="#" target="_blank">
       <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -107,13 +107,177 @@ I am keen enthusiast of Deep Analysis. I also love other stuffs like playing ban
       <br>Tableau
 </td>
 
-<!--<td align="center" width="96">
+
+</tr>
+ 
+ <tr>
+
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
+      </a>
+      <br>HTML
+    </td>
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/>
+      </a>
+      <br>CSS
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br>JavaScript
+</td>
+
+</tr>
+ 
+ <tr>
+
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <br>MongoDB
+    </td>
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS" width="40" height="40"/>
+      </a>
+      <br>NodeJS
+</td>
+
+</tr> -->
+ 
+<!--  -------------------------------------------------------- -->
+ 
+ <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <br/>Python
+   </td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
+      <br>MS Office
+</td>
+ <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img loading="lazy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/74c824a960f1f6c8640bc8cb678f1bf4c9e0669f/icons/pandas.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <br/> Pandas
+   </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+      </a>
+      <br>NumPy
+    </td>
+<td align="center" width="96">
       <a href="#" >
         <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="beautiful-soup" width="40" height="40"/>
       </a>
       <br>BeautifulSoup
-</td>-->
+</td>
+  <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
+      </a>
+      <br>Matplotlib
+    </td>
+  
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+      </a>
+      <br>Tableau
+</td>
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+      </a>
+      <br>Power BI
+ </td> 
+   
+
 </tr>
+
+<tr>
+
+ 
+ 
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br>MySQL
+</td>
+
+
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
+      </a>
+      <br>HTML
+    </td>
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/>
+      </a>
+      <br>CSS
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <br>JavaScript
+</td>
+
+
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <br>MongoDB
+    </td>
+ 
+ 
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="ExpressJS" width="40" height="40"/>
+      </a>
+      <br>ExpressJS
+</td>
+ 
+ 
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS" width="40" height="40"/>
+      </a>
+      <br>NodeJS
+</td>
+
+</tr>
+ 
 </table>
 
 
